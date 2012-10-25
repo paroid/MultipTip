@@ -1,5 +1,5 @@
 #MultipTip#
-javascript Tip plugin based on <tipTip> . add Multiple tipTip support . no sweat...
+javascript Tip plugin based on tipTip plugin . add Multiple tipTip support . no sweat...
 
 ##Basic API:##
 http://code.drewwilson.com/entry/tiptip-jquery-plugin
